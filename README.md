@@ -24,7 +24,7 @@ pip install pystan
 In terminal, with your conda `dev`  environment active, run:
 
 ```python
-conda install fbprophet
+pip install fbprophet
 ```
 
 When working with CSV files in Google Colab, user must upload:
