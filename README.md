@@ -1,4 +1,4 @@
-# MercadoLibre Stock Prediction
+# MercadoLibre Net Profit Prediction
 ![MERCADOLIBRE](images/ml.jpg)
 
 This is a time series model that allows users to analyze MercadoLibre's financial and user data to grow the company.
