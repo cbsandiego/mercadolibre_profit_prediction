@@ -36,7 +36,7 @@ uploaded = files.upload()
 To render hvPlots on Google Colab, use following line before each hvPlot:
 ```python
 hv.extension('bokeh')
-
+```
 ---
 ## Contributors
 Christina San Diego [LinkedIn](https://www.linkedin.com/in/christinabuted)
