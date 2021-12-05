@@ -1,7 +1,7 @@
 # MercadoLibre Stock Prediction
 ![MERCADOLIBRE](images/ml.jpg)
 
-This is an unsupervised machine learning model that groups cryptocurrencies to assemble investment portfolios based on the profitability of those cryptocurrencies.
+This is a time series model that allows users to analyze MercadoLibre's financial and user data to grow the company.
 
 ---
 ## Tools
